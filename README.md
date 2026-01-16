@@ -4,7 +4,7 @@ A production-quality social media analytics dashboard built with Next.js 15, Sup
 
 ## Live Demo
 
-[Live Demo]([analytics-dashboard-blush-seven.vercel.app](https://analytics-dashboard-5r35p8wii-vladivikks-projects.vercel.app))
+[LIVE DEMO](https://analytics-dashboard-5r35p8wii-vladivikks-projects.vercel.app)
 
 ## Tech Stack
 
